@@ -75,4 +75,21 @@ button[data-start],button[data-stop]{
 }
 /* end timer */
 
+/* ptomise style */
+.form {
+  display: inline-flex;
+  align-items: flex-end;
+ 
+}
+label{
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 5px;
+  font-size: 18px;
+  font-weight: 700;
+}
 
+input[type="number"],button[type="submit"] {
+  height: 30px;
+}
