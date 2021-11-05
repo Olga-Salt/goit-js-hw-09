@@ -1,23 +1,23 @@
 {
-  "name": "goit-js-hw-08",
+  "name": "goit-js-hw-09",
   "version": "1.0.0",
   "description": "",
   "main": "indexnpm.js",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Olga-Salt/goit-js-hw-08.git"
+    "url": "git+https://github.com/Olga-Salt/goit-js-hw-09.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Olga-Salt/goit-js-hw-08/issues"
+    "url": "https://github.com/Olga-Salt/goit-js-hw-09/issues"
   },
-  "homepage": "https://github.com/Olga-Salt/goit-js-hw-08#readme",
+  "homepage": "https://github.com/Olga-Salt/goit-js-hw-09#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
     "parcel-plugin-handlebars-precompile": "^1.0.2",
